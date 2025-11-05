@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -36,7 +36,25 @@ class MyDocument extends Document {
             integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
             crossOrigin="anonymous"
           />
+
+          <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-5KBMZGDTZ8"
+          ></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-5KBMZGDTZ8', {
+                page_path: window.location.pathname,
+              });
+            `,
+            }}
+          />
         </Head>
+
         <body>
           <Main />
           <NextScript />

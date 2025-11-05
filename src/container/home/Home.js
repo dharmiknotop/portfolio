@@ -236,8 +236,10 @@ const Home = () => {
         <h1 className={styles.s__myName}>DHARMIK UPADHYAYA</h1>
       </div>
       <div className={`${styles.s__subTxt} subTxt`}>
-        A Frontend focused Web Developer building the Frontend of Websites and
-        Web Applications that leads to the success of the overall product
+        Full-stack developer with experience building scalable web applications
+        and modern user interfaces. Proficient in JavaScript, React, AWS
+        Services, and implementing comprehensive testing strategies with CI/CD
+        pipelines.
       </div>
       <Link href="#projects">
         <a>

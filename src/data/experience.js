@@ -4,16 +4,9 @@ let experience = [
     title: "Front-end Developer",
     timeFrame: "April 2022 - June 2022",
     points: [
-      ` Worked with a senior developer as a <span> intern </span>to
-                  build a platform which makes student&apos;s life easier by
-                  <span> providing jobs,colleges and school admission</span> , an
-                  ambitious startup from<span> bangalore</span>.`,
-      `  Up skilled my skill of writing<span> clean code</span>, learned
-                  <span> scss </span>, <span> coding practices</span>,
-                  <span>figma</span>,<span> testing </span>.`,
-      `Engineered the most of the section in the
-                  <span>college dashboard</span>,<span> home page </span>,
-                  <span>log in sing up modal box </span> and many more pages.`,
+      `Contributed to developing an <span>educational technology platform</span> streamlining student access to <span>employment</span>, <span>higher education</span>, and <span>admissions</span> for a <span>Bangalore-based startup</span>.`,
+      `Enhanced technical proficiency in clean code architecture, <span>SCSS</span>, <span>enterprise coding standards</span>, <span>Figma</span> implementation, and <span>testing methodologies</span>.`,
+      `Engineered critical frontend components including <span>college dashboard</span>, <span>homepage interface</span>, <span>authentication modules</span>, and <span>user-facing pages</span> with scalable solutions.`,
     ],
   },
   {

@@ -130,22 +130,25 @@ const About = () => {
                 Get to know me!
               </h2>
               <p className="aboutMeContent">
-                I am a <span>Frontend Web Developer </span> at{" "}
-                <span>Edufu</span>. building the Front-end of the Website and
-                Web Applications that leads to the success of the overall
-                product.
+                <span>Software Engineer</span> with <span>3+ years</span> of
+                experience developing scalable web applications and e-commerce
+                solutions. Currently building high-performance{" "}
+                <span>Shopify apps</span> at <span>Proveway</span>.
               </p>
               <p className="aboutMeContent1">
-                I am currently Doing diploma in{" "}
-                <span>Gandhinagar Government Polytechnic </span>
-                college. I live in Mehsana, Gujrat and currently 18 year old.
+                I am currently pursuing <span>Computer Engineering</span> at
+                <span> GTU-ITR, Mehsana.</span> Previously completed my diploma
+                in <span>Information Technology</span> from
+                <span> Government Polytechnic, Gandhinagar</span> with a CGPA of{" "}
+                <span>9.09/10</span>.
               </p>
               <p className="aboutMeContent2">
-                I&apos;m open to <span>Job</span> opportunities where I can
-                contribute,
-                <span> learn</span> and <span>grow</span>. If you have a good
-                opportunity that matches my skills and experience then
-                don&apos;t hesitate to <span>contact</span> me.
+                Full-stack developer skilled in <span>MERN stack</span>,{" "}
+                <span>Svelte</span>, and <span>AWS </span>
+                serverless technologies (<span>Lambda</span>, <span>SQS</span>).
+                Experienced in automated testing with{" "}
+                <span>Playwright/Vitest</span> and <span>CI/CD pipelines </span>
+                integration for scalable cloud applications.
               </p>
             </div>
           </div>
